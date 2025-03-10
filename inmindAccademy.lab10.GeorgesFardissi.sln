@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inmindAccademy.lab10.GeorgesFardissi", "inmindAccademy.lab10.GeorgesFardissi\inmindAccademy.lab10.GeorgesFardissi.csproj", "{9EB66A96-7892-4C10-AEE9-1A21ECB58884}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inmindAccademy.lab10.GeorgesFardissi.Tests", "inmindAccademy.lab10.GeorgesFardissi.Tests\inmindAccademy.lab10.GeorgesFardissi.Tests.csproj", "{2E4BBABA-BBC6-4481-9632-2D14F2529E9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{9EB66A96-7892-4C10-AEE9-1A21ECB58884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EB66A96-7892-4C10-AEE9-1A21ECB58884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EB66A96-7892-4C10-AEE9-1A21ECB58884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E4BBABA-BBC6-4481-9632-2D14F2529E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E4BBABA-BBC6-4481-9632-2D14F2529E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E4BBABA-BBC6-4481-9632-2D14F2529E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E4BBABA-BBC6-4481-9632-2D14F2529E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
