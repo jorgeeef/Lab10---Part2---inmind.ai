@@ -1,4 +1,5 @@
 using Xunit;
+using Xunit.Sdk;
 
 namespace inmindAccademy.lab10.GeorgesFardissi.Tests;
 

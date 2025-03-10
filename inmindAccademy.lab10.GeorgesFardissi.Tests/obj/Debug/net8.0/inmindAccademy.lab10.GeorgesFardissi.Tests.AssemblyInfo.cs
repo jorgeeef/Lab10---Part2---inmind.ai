@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("inmindAccademy.lab10.GeorgesFardissi.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93cedee1ac8550b7612d538fcfe6cf38fb2aa6c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc75f0f0d205a150ae4e9b716a6ef36c4225b52f")]
 [assembly: System.Reflection.AssemblyProductAttribute("inmindAccademy.lab10.GeorgesFardissi.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("inmindAccademy.lab10.GeorgesFardissi.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
